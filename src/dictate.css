@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: rgb(173, 170, 167);
+}
+.text {
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.text-box {
+  width: 55%;
+  height: 60vh;
+  border-radius: 7px;
+  background-color: rgb(228, 214, 214);
+}
+.speech_text {
+  height: 100%;
+  width: 100%;
+  font-size: 18px;
+  padding: 20px 30px;
+}
